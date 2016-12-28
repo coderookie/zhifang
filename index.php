@@ -1,12 +1,8 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 <title>某出版社</title>
-<link href="http://common1.qyerstatic.com/place/common/basic/css/base.css" rel="stylesheet" type="text/css" />
-<link href="http://common1.qyerstatic.com/place/project/css/style.css" rel="stylesheet" type="text/css" />
-</head>
+<link href='./static/css/base.css' rel='stylesheet' type='text/css' />
+<link href='./static/css/style.css' rel='stylesheet' type='text/css' />
 
-<body>
 <div class="plcContainer">
     <div class="qyWrap">
         <h2 class="plcHotPlaceTitle bigTitle fontYaHei">某出版社热门图书</h2>
@@ -94,5 +90,3 @@
         </div>
     </div>
 </div>
-</body>
-</html>
