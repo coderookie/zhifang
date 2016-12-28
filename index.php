@@ -11,16 +11,14 @@
 		<!-- 左侧焦点图 before -->
 		<div class="plcFocusPhoto" id="focusPhoto">
 			<ul class="plcFocusPhotoList">
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="680" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="680" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="680" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="680" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="680" height="400" alt="" /></a></li>
+				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
+				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
+				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
+				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
+				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
 			</ul>
 			<p class="prev" title="上一张"></p>
 			<p class="next" title="下一张"></p>
-			<p class="photoMore"><a href="#">73895张照片</a></p>
-			<p class="photoAdmin"><a href="javascript:void(0);">管理封图</a></p>
 		</div>
 		<!-- 左侧焦点图 end -->
 
@@ -121,7 +119,7 @@
 
 <script>
 var $root = $("#focusPhoto");
-ctrol({
+control({
     prev: $root.find(".prev"),
     next: $root.find(".next"),
     content: $root.find(".plcFocusPhotoList")
