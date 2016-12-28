@@ -2,6 +2,8 @@
 <title>某出版社</title>
 <link href='./static/css/base.css' rel='stylesheet' type='text/css' />
 <link href='./static/css/style.css' rel='stylesheet' type='text/css' />
+<script src='./static/js/jquery.js'></script>
+<script src='./static/js/slider.js'></script>
 
 <div class="plcFirstModule">
 	<div class="plcFirstModuleWrap">
@@ -116,3 +118,12 @@
         </div>
     </div>
 </div>
+
+<script>
+var $root = $("#focusPhoto");
+ctrol({
+    prev: $root.find(".prev"),
+    next: $root.find(".next"),
+    content: $root.find(".plcFocusPhotoList")
+});
+</script>
