@@ -2,32 +2,6 @@
 <title>某出版社</title>
 <link href='./static/css/base.css' rel='stylesheet' type='text/css' />
 <link href='./static/css/style.css' rel='stylesheet' type='text/css' />
-<script src='./static/js/jquery.js'></script>
-<script src='./static/js/slider.js'></script>
-
-<div class="plcFirstModule">
-	<div class="plcFirstModuleWrap">
-
-		<!-- 左侧焦点图 before -->
-		<div class="plcFocusPhoto" id="focusPhoto">
-			<ul class="plcFocusPhotoList">
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
-				<li><a href="#"><img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" width="480" height="400" alt="" /></a></li>
-			</ul>
-			<p class="prev" title="上一张"></p>
-			<p class="next" title="下一张"></p>
-		</div>
-		<!-- 左侧焦点图 end -->
-
-		<div class="plcFocusOperate">
-            这边是着重要强烈推荐的书籍这边是着重要强烈推荐的书籍这边是着重要强烈推荐的书籍这边是着重要强烈推荐的书籍这边是着重要强烈推荐的书籍
-		</div>
-		<div class="clear"></div>
-	</div>
-</div>
 
 <div class="plcContainer">
     <div class="qyWrap">
