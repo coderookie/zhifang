@@ -11,10 +11,10 @@
                 <li>
                     <a href="#">
                         <p class="top">
-                            <img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
+                            <img src="static/images/bulage1.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
                         <div class="bottom">
-                            <h3 class="title fontYaHei">杜文传</h3>
+                            <h3 class="title fontYaHei">布拉格红尘</h3>
                             <div class="info">
                                 这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书
                             </div>
@@ -24,10 +24,10 @@
                 <li>
                     <a href="#">
                         <p class="top">
-                            <img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
+                            <img src="static/images/bulage2.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
                         <div class="bottom">
-                            <h3 class="title fontYaHei">杜文传</h3>
+                            <h3 class="title fontYaHei">布拉格红尘</h3>
                             <div class="info">
                                 这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书
                             </div>
@@ -37,10 +37,10 @@
                 <li>
                     <a href="#">
                         <p class="top">
-                            <img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
+                            <img src="static/images/bulage3.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
                         <div class="bottom">
-                            <h3 class="title fontYaHei">杜文传</h3>
+                            <h3 class="title fontYaHei">布拉格红尘</h3>
                             <div class="info">
                                 这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书
                             </div>
@@ -50,10 +50,10 @@
                 <li>
                     <a href="#">
                         <p class="top">
-                            <img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
+                            <img src="static/images/bulage4.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
                         <div class="bottom">
-                            <h3 class="title fontYaHei">杜文传</h3>
+                            <h3 class="title fontYaHei">布拉格红尘</h3>
                             <div class="info">
                                 这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书
                             </div>
@@ -63,23 +63,10 @@
                 <li>
                     <a href="#">
                         <p class="top">
-                            <img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
+                            <img src="static/images/bulage5.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
                         <div class="bottom">
-                            <h3 class="title fontYaHei">杜文传</h3>
-                            <div class="info">
-                                这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <p class="top">
-                            <img src="http://common2.qyerstatic.com/place/project/images/tmp/focusphoto.jpg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
-                        </p>
-                        <div class="bottom">
-                            <h3 class="title fontYaHei">杜文传</h3>
+                            <h3 class="title fontYaHei">布拉格红尘</h3>
                             <div class="info">
                                 这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书这是一本介绍杜文的图书
                             </div>
