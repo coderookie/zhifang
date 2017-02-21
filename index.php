@@ -9,7 +9,7 @@
         <div class="plcHotPlaceContent">
             <ul class="plcHotPlaceList clearfix">
                 <li>
-                    <a href="#">
+                    <a href="http://zhifang.haoxinqing.me/static/images/bulage1.jpeg" target='_blank'>
                         <p class="top">
                             <img src="static/images/bulage1.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
@@ -22,7 +22,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="http://zhifang.haoxinqing.me/static/images/bulage2.jpeg" target='_blank'>
                         <p class="top">
                             <img src="static/images/bulage2.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
@@ -35,7 +35,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="http://zhifang.haoxinqing.me/static/images/bulage3.jpeg" target='_blank'>
                         <p class="top">
                             <img src="static/images/bulage3.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
@@ -48,7 +48,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="http://zhifang.haoxinqing.me/static/images/bulage4.jpeg" target='_blank'>
                         <p class="top">
                             <img src="static/images/bulage4.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
@@ -61,7 +61,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="http://zhifang.haoxinqing.me/static/images/bulage5.jpeg" target='_blank'>
                         <p class="top">
                             <img src="static/images/bulage5.jpeg" data-original="http://common2.qyerstatic.com/place/project/images/tmp/poi.jpg" alt="" class="photo lazy" />
                         </p>
