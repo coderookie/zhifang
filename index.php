@@ -5,7 +5,7 @@
 
 <div class="plcContainer">
     <div class="qyWrap">
-        <h2 class="plcHotPlaceTitle bigTitle fontYaHei">某出版社热门图书</h2>
+        <h2 class="plcHotPlaceTitle bigTitle fontYaHei">香港大麦文化</h2>
         <div class="plcHotPlaceContent">
             <ul class="plcHotPlaceList clearfix">
                 <li>
